@@ -2,5 +2,3 @@ Learn Git
 Use GitHub 
 Manage versions
 Get good at gaming
-
-This line was added by mistake.
