@@ -30,5 +30,5 @@ A. Git revert converts the project into the last staged/committed version by cre
 
 B. They are both similar, but unlike `git restore`, which simply converts the file into the last committed version without keeping a record of the change, `git revert` does keep a record and lets us know that the changes made to the past version of the file are recorded.
 
-&#x20;
+
 
